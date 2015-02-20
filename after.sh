@@ -21,6 +21,7 @@ cp /home/vagrant/.homestead-after/.vimrc /home/vagrant/.vimrc
 cp /home/vagrant/.homestead-after/.gitconfig /home/vagrant/.gitconfig
 #git config --global user.name "John Madden"
 #git config --global user.email "john@example.com"
+# ...and if you want to git commit via command line, you can uncomment above two lines for automatic git user setup.
 
 # Set default shell.
 chsh -s /usr/bin/zsh vagrant
