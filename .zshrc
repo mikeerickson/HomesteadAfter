@@ -2,7 +2,7 @@
 export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
-ZSH_THEME="jersey-homestead"
+ZSH_THEME="codedungeon-homestead"
 
 # Other misc settings.
 CASE_SENSITIVE="true"
