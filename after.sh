@@ -8,11 +8,11 @@ git clone git://github.com/robbyrussell/oh-my-zsh.git /home/vagrant/.oh-my-zsh
 cp /home/vagrant/.oh-my-zsh/templates/zshrc.zsh-template /home/vagrant/.zshrc-robby
 
 # Clone HomesteadAfter files.
-git clone git://github.com/JerseyMilker/HomesteadAfter.git /home/vagrant/.homestead-after
+git clone git://github.com/mikeerickson/HomesteadAfter.git /home/vagrant/.homestead-after
 
 # Copy out .zshrc and theme.
 cp /home/vagrant/.homestead-after/.zshrc /home/vagrant/.zshrc
-cp /home/vagrant/.homestead-after/jersey-homestead.zsh-theme /home/vagrant/.oh-my-zsh/themes
+cp /home/vagrant/.homestead-after/codedungeon-homestead.zsh-theme /home/vagrant/.oh-my-zsh/themes
 
 # Copy out .vimrc.
 cp /home/vagrant/.homestead-after/.vimrc /home/vagrant/.vimrc

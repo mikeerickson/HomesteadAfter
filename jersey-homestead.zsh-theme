@@ -12,7 +12,7 @@ print -rP '
 $fg[blue]Homestead $fg[yellow]$(get_pwd) $(git_prompt_info)'
 }
 
-PROMPT='%{$reset_color%}Facade:: '
+PROMPT='%{$reset_color%}Homestead:: '
 
 ZSH_THEME_GIT_PROMPT_PREFIX="["
 ZSH_THEME_GIT_PROMPT_SUFFIX="]$reset_color"
